@@ -1,1 +1,1 @@
-Repository directory for shell project
+Project on the shell
